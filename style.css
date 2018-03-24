@@ -1,0 +1,17 @@
+.counters {
+	text-align: center;
+}
+button {
+	padding: 0 20px;
+}
+button:first-child {
+	background-color: darkgreen;
+	color: aliceblue;
+}
+button:nth-child(2) {
+	background-color: red;
+	color: aliceblue;
+}
+span {
+	padding: 0 20px;
+}
